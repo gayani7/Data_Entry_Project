@@ -31,5 +31,8 @@ All data is stored securely in a **MySQL database** using **JDBC** connectivity.
 4. Update the database connection settings if needed.
 5. Build and Run the project.
 
+## Screenshots
 
- 
+ ![login](https://github.com/user-attachments/assets/d3fca762-d1ab-4872-beaf-ccc06d4ad826)
+
+![mainframe](https://github.com/user-attachments/assets/8884fa21-0e9b-46b2-9d44-34ec2416709e)
