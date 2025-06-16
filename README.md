@@ -26,6 +26,14 @@ All data is stored securely in a **MySQL database** using **JDBC** connectivity.
 
 ## Screenshots
 
- ![login](https://github.com/user-attachments/assets/d3fca762-d1ab-4872-beaf-ccc06d4ad826)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d3fca762-d1ab-4872-beaf-ccc06d4ad826" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8884fa21-0e9b-46b2-9d44-34ec2416709e" width="300"/>
+    </td>
+  </tr>
+</table>
 
-![mainframe](https://github.com/user-attachments/assets/8884fa21-0e9b-46b2-9d44-34ec2416709e)
