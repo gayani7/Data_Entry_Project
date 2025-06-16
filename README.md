@@ -24,13 +24,6 @@ All data is stored securely in a **MySQL database** using **JDBC** connectivity.
 - Secure database operations (CRUD: Create, Read, Update, Delete)
 - Organized project structure
 
-## How to Run the Project
-1. Clone this repository.
-2. Open the project in **NetBeans IDE**.
-3. Make sure MySQL Server is running.
-4. Update the database connection settings if needed.
-5. Build and Run the project.
-
 ## Screenshots
 
  ![login](https://github.com/user-attachments/assets/d3fca762-d1ab-4872-beaf-ccc06d4ad826)
